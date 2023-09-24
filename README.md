@@ -43,8 +43,9 @@ To play "The Forest of the Dead," follow these steps:
 
 5. Enjoy the game and make choices that affect the story!
 
-## Game Screenshots
+## Game Screenshot
 
+![Screenshot 1](game/images/screenshot1.png)
 
 
 ## Contributing
