@@ -45,10 +45,10 @@ To play "The Forest of the Dead," follow these steps:
 
 ## Game Screenshots
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](game/images/screenshot1.png)
 *Add game screenshots here to showcase the visuals and gameplay.*
 
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 2](game/images/screenshot2.png)
 
 ## Contributing
 
