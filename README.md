@@ -28,6 +28,8 @@
   - "Koster" by Ruslan-dev-Free-Fire
   - "River" by Ruslan-dev-Free-Fire
   - "Happy Theme" by Ruslan-dev-Free-Fire
+    
+  **Note**: Soundtracks composed by AIVA (Artificial Intelligence Virtual Artist): https://www.aiva.ai
 
 ## Getting Started
 
