@@ -13,7 +13,7 @@
 ##
 ## _() で囲まれた文字列は翻訳時に生成されるファイルに記載されます。
 
-define config.name = _("The forest of the dead JAP")
+define config.name = _("The forest of the dead")
 
 
 ## 上で定義したタイトルをメインメニュースクリーン（ゲーム起動後、最初に表示され
@@ -24,7 +24,7 @@ define gui.show_name = True
 
 ## ゲームのバージョン。
 
-define config.version = "1.0"
+define config.version = "1.1"
 
 
 ## About（バージョン情報）スクリーンに表示されるテキスト。トリプルクオートの間に
@@ -62,7 +62,7 @@ define config.has_voice = True
 ## されます。このファイルは、停止するか他の音楽が再生されない限りゲーム中で流れ
 ## 続けます。
 
-# define config.main_menu_music = "main-menu-theme.ogg"
+define config.main_menu_music = "music/main_theme.mp3"
 
 
 ## トランジション #####################################################################
@@ -212,3 +212,6 @@ init python:
 ## ッシュで分けてください。
 
 # define build.itch_project = "renpytom/test-project"
+
+define gui.overlay = True
+
