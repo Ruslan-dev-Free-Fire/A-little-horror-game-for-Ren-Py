@@ -48,7 +48,8 @@ To play "The Forest of the Dead," follow these steps:
 
 ## Game Screenshot
 
-![Screenshot 1](game/images/screenshot1.png)
+![Screenshot 1](https://raw.githubusercontent.com/Ruslan-dev-Free-Fire/A-little-horror-game-for-Ren-Py/main/game/images/screeshot.png)
+
 
 ## Version History
 
