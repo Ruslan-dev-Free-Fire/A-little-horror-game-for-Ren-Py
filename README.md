@@ -9,7 +9,8 @@
 - [About](#about)
 - [Game Overview](#game-overview)
 - [Getting Started](#getting-started)
-- [Game Screenshots](#game-screenshots)
+- [Game Screenshot](#game-screenshot)
+- [Version History](#version-history)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -49,6 +50,32 @@ To play "The Forest of the Dead," follow these steps:
 
 ![Screenshot 1](game/images/screenshot1.png)
 
+## Version History
+
+**Version 1.1 (Release Date: [2023.10.06])**
+
+1. Added a new blinking and immersion feature:
+   - Introduced a new blinking function that creates a slow dissolve effect on the background with a duration of 5 seconds.
+   - Implemented a smooth camera movement between chest and waist levels of the character.
+   - Added a function for smoothly zooming and moving the camera to the character's head with a zoom level of 3.0.
+   - Implemented an automatic sound stop function when changing backgrounds using the `change_background_with_sound_interrupt` function.
+
+2. Added new sound effects and music:
+   - Included a new musical composition, "night_wind.mp3," to enhance the game's atmosphere.
+   - Added sound effects: "heartbeat.mp3," "udar-dubinok.ogg," and "padenie_tela.mp3" for deeper player immersion.
+
+3. Introduced new graphical effects:
+   - Included a graphical image, "blood.png," to create blood effects within the game.
+
+4. Updated character initialization:
+   - Changed the name of the character "軍団1" to "シラン" for better identification in the game.
+
+5. Main menu updates:
+   - Added new music to the main menu, "main_theme.mp3."
+
+**Version 1.0 (Release Date: [2023.10])**
+
+1. Initial release of the game.
 
 ## Contributing
 
